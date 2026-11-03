@@ -1,0 +1,5 @@
+# Local environment / secrets
+config/.env.local
+
+# Generated artifacts
+generated/
